@@ -31,8 +31,7 @@
             "server": "postgres",
             "port": 5432,
             "database": "workshopdb",
-            "username": "postgres",
-            "password": "ChicagoStyleHotDog"
+            "username": "postgres"
           }
         ],
         "database-client.autoConnect": true,
